@@ -1,0 +1,697 @@
+@media (max-width: 1920px) {	
+
+    .main-menu ul li a {
+        color: #012060;
+        padding: 0 0 0 2rem !important;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .carousel-caption h1 {
+        font-size: 60px;
+        line-height: 70px;
+        margin-bottom: 0px;
+        font-weight: 500;
+    }
+    .carousel-caption h1 {
+        font-size: 80px;
+        line-height: 90px;
+        width: 90%;
+        margin: 0 auto 30px;
+    }
+    .banner-sec-home .carousel-caption {
+        bottom: 6.25rem;
+    }
+    .hanging-lamp {
+        position: absolute;
+        top: -20%;
+        width: 30%;
+        right: -7%;
+    }
+    .float-video-img1 {
+        width: 9%;
+        background-size: contain;
+    }
+	.testimonial-sec .hanging-boiler {
+    position: absolute;
+    bottom: -2.8rem;
+    width: 17%;
+    right: 0;
+    height: 40%;
+}
+.sign-fillup-box {
+    background-position: 90% 114%;
+}
+}
+
+
+@media (max-width: 1366px) {	
+
+    .main-menu ul li a {
+        color: #012060;
+        padding: 0 0 0 2rem !important;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .carousel-caption h1 {
+        font-size: 60px;
+        line-height: 70px;
+        margin-bottom: 0px;
+        font-weight: 500;
+    }
+    .video-post-title h3 a {
+        color: #282828;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .Podcast-content p {
+        font-size: 18px;
+    }
+    .review-content p {
+        font-size: 18px;
+        padding: 0 10px;
+    }
+    .newsletr-box {
+        padding: 65px;
+    }
+    .post-title h3 a {
+        font-size: 22px;
+        line-height: 35px;
+        margin-bottom: 20px;
+        color: #282828;
+    }
+    .newsletter-content p {
+        font-size: 18px;
+    }
+    .sign-fillup-box {
+        background-position: 90% 109%;
+    }
+
+
+
+
+
+
+
+
+}
+@media screen and (max-width:1024px){
+    .post-date h4 {
+        font-size: 17px;
+    }
+    .each-Podcast {
+        position: relative;
+        z-index: 9;
+    }
+}
+@media screen and (max-width: 980px) {
+    .logo-header {
+        margin: 0px 0 0 0;
+    }
+    ul.social-media li {
+        margin-left: 10px;
+    }
+    .page-btn a {
+        font-size: 12px;
+    }
+    .page-btn {
+        position: relative;
+        z-index: 99;
+        margin-right: 0;
+    }
+    button.navbar-toggler {
+        margin-left: auto;
+        position: absolute;
+        top: -100px;
+        right: -10px;
+    }
+    .navbar-toggler-icon {
+        font-size: 28px;
+        padding: 6px;
+        text-align: center;
+        color: #ed2b35;
+    }
+    .main-menu {
+        margin-top: 0px;
+    }
+
+    .post-title h3 a {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .post-date h4 {
+        font-size: 12px;
+    }
+    .logo-header {
+        width: 30%;
+        margin: 0 0;
+    }
+    .header .page-btn {
+        position: relative;
+        z-index: 99;
+        margin-right: 0;
+    }
+    .carousel-caption h1 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 0px;
+        font-weight: 500;
+    }
+    .hanging-lamp {
+        position: absolute;
+        top: 0px;
+        width: 40%;
+        right: -7%;
+    }
+    .newsletter-content p {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    .signupbox {
+        margin: 60px 0px 0;
+    }    
+    .sign-fillup-box {
+        background-position: 90% 106%;
+    }
+    .additionalfill p a {
+        text-decoration: underline;
+        display: inline;
+    }
+    .additionalfill p{
+        font-size: 14px;
+        display: inline-block;
+        color: #fff;
+        padding: 6px 0 0;
+        width: 90%;
+    }
+
+
+
+
+
+}
+@media screen and (max-width: 820px) { 
+    /* .rgt-panel-top-content {
+        display: none !important;
+    } */
+    button.navbar-toggler {
+        margin-left: auto;
+        position: absolute;
+        top: -100px;
+        right: 0;
+    }
+    .navbar-toggler-icon {
+        font-size: 28px;
+        padding: 6px;
+        text-align: center;
+        color: #ed2b35;
+    }
+    ul.social-media li {
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .main-menu ul.navbar-nav {
+        text-align: center;
+    }
+    .main-menu ul.navbar-nav li a {
+        padding: 5px !important;
+    }
+    header.header {
+        background: #fff;
+        padding: 0;
+    }
+    .hanging-lamp {
+        width: 55%;
+        right: -18%;
+    }
+    .post-title h3 a {
+        font-size: 18px;
+    }
+    .post-date h4 {
+        font-size: 16px;
+    }
+    .float-video-img2 {
+        width: 35%;
+    }
+    .page-title h2 {
+        font-size: 30px;
+    }
+    .float-Podcast-img2 {
+        width: 40%;
+    }
+    .float-article-img1 {
+        width: 45%;
+    }
+    .page-btn {
+        position: relative;
+        z-index: 99;
+    }
+    .float-article-img2 {
+        width: 40%;
+    }
+    .float-Podcast-img1 {
+        width: 40%;
+    }
+    .newsletr-box {
+        padding: 45px;
+    }
+    .newsletter-content .page-title {
+        margin-bottom: 20px;
+    }
+    .newsletter-sec {
+        padding: 50px 0 150px;
+    }
+    .newsletter-sec:after {
+        bottom: -1.7rem;
+    }
+    .logo-header {
+        width: 40%;
+        margin: 10px 0 0 0;
+    }
+    .arrow-image img {
+        width: 6px !important;
+        height: 40px !important;
+    }
+    .carousel-item img {
+        width: 100%;
+        height: 350px;
+        object-fit: cover;
+    }
+    .carousel-caption h1 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 0px;
+    }
+    .carousel-caption p {
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    .float-video-img1 {
+        width: 12%;
+    }
+    .newsletr-box {
+    padding: 20px;
+}
+.float-about-img1 {
+    width: 15%;
+}
+.float-about-img2 {
+    width: 25%;
+}   
+.newsletter-content p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}   
+.inn-coach-cont {
+    padding: 0 1rem;
+}
+.sign-fillup-box {
+    padding: 2rem;
+}
+.sign-fillup-box .page-title h3 {
+    font-size: 48px;
+}
+.contact-form .newsletr-box {
+    padding: 50px;
+}
+.contact-content p {
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+@media screen and (max-width: 667px) { 
+    /* .rgt-panel-top-content {
+        display: none !important;
+    } */
+    button.navbar-toggler {
+        margin-left: auto;
+        position: absolute;
+        top: -96px;
+        right: 0;
+    }
+    .navbar-toggler-icon {
+        font-size: 28px;
+        padding: 6px;
+        text-align: center;
+        color: #ed2b35;
+    }
+    .page-btn a {
+        font-size: 10px;
+    }
+    ul.social-media li {
+        display: inline-block;
+        margin-left: 6px;
+    }
+    .main-menu ul.navbar-nav {
+        text-align: center;
+    }
+    .main-menu ul.navbar-nav li a {
+        padding: 5px !important;
+    }
+    header.header {
+        background: #fff;
+        padding: 0;
+    }
+    .my-video-sec .float-article-img1 {
+        width: 23%;
+    }
+    .testimonial-sec .hanging-boiler {
+        position: absolute;
+        bottom: -7.8rem;
+        width: 37%;
+        right: 0;
+        height: 30%;
+    }
+    .hanging-lamp {
+        width: 70%;
+        right: -18%;
+        top: -10%;
+    }
+    .post-title h3 a {
+        font-size: 18px;
+    }
+    .post-date h4 {
+        font-size: 16px;
+    }
+    .float-video-img2 {
+        width: 35%;
+    }
+    .page-title h2 {
+        font-size: 20px;
+    }
+    .float-Podcast-img2 {
+        width: 40%;
+    }
+    .float-article-img1 {
+        width: 45%;
+    }
+    .page-btn {
+        position: relative;
+        z-index: 99;
+    }
+    .float-article-img2 {
+        width: 40%;
+    }
+    .float-Podcast-img1 {
+        width: 40%;
+    }
+    .newsletr-box {
+        padding: 45px;
+    }
+    .newsletter-content .page-title {
+        margin-bottom: 20px;
+    }
+    .newsletter-sec {
+        padding: 50px 0 150px;
+    }
+    .newsletter-sec:after {
+        bottom: -1.7rem;
+        width: 40%;
+    }
+    .logo-header {
+        width: 60%;
+    }
+    .arrow-image img {
+        width: 6px !important;
+        height: 40px !important;
+    }
+    .carousel-item img {
+        width: 100%;
+        height: 350px;
+        object-fit: cover;
+    }
+    .carousel-caption h1 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 0px;
+    }
+    .carousel-caption p {
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    .newsletter-content p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .top-mar {
+        margin-top: 20px;
+    }
+    .copyright {
+        text-align: center;
+        color: #fff;
+    }
+    .testisocial {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .newsletr-box {
+        padding: 20px;
+    }	
+    .float-about-img1 {
+        width: 20%;
+    }	
+    .float-about-img2 {
+        width: 30%;
+    }	
+    .banner-sec-home .carousel-caption {
+        bottom: 0.25rem;
+    }  
+    .header .page-btn {
+        margin-right: 15px;
+    }
+    .short-by {
+        width: 100%;
+    }    
+    .page-title {
+        width: 100%;
+    }
+    .title-box {
+        display: inline-block;
+    }
+
+    .pagination {
+        margin-top: 128px;
+        margin-bottom: 5rem;
+    }
+    .sign-fillup-box {
+        padding: 1rem;
+    }
+    .inn-coach-cont {
+        padding: 0 0rem;
+        margin-bottom: 8rem;
+    }
+    .sign-fillup-box .page-title h3 {
+        font-size: 34px;
+        font-weight: 500;
+        color: #fff;
+    }
+    .signupbox {
+        margin: 60px 0px 0;
+    }
+    .signupbox input[type="button"], .signupbox input[type="submit"] {
+        padding: 10px 30px;
+    }
+    .page-title h3 {
+        font-size: 40px;
+    }
+    .art-detail-slider {
+        width: 100% !important;
+        margin: 0 auto;
+    }	
+    .art-detail-slider .post-title h3 a {
+        font-size: 24px;
+        line-height: 35px;
+    }	
+    .art-detail-slider button.owl-prev {
+        left: 30%;
+    }
+    .art-detail-slider button.owl-next {
+        right: 30%;
+    }
+    .post-img img {
+        width: 100%;
+    }
+    .contact-content p {
+        font-size: 17px;
+        top: -20px;
+    }
+
+
+        
+    
+    }
+
+
+@media screen and (max-width: 375px) { 
+/* .rgt-panel-top-content {
+    display: none !important;
+} */
+button.navbar-toggler {
+    margin-left: auto;
+    position: absolute;
+    top: -120px;
+    right: 0;
+}
+.navbar-toggler-icon {
+    font-size: 28px;
+    padding: 6px;
+    text-align: center;
+    color: #ed2b35;
+}
+.page-btn a {
+    font-size: 10px;
+}
+ul.social-media li {
+    display: inline-block;
+    margin-left: 6px;
+}
+.main-menu ul.navbar-nav {
+    text-align: center;
+}
+.main-menu ul.navbar-nav li a {
+    padding: 5px !important;
+}
+header.header {
+    background: #fff;
+    padding: 0;
+}
+.my-video-sec .float-article-img1 {
+    width: 23%;
+}
+.testimonial-sec .hanging-boiler {
+    position: absolute;
+    bottom: -7.8rem;
+    width: 37%;
+    right: 0;
+    height: 30%;
+}
+.hanging-lamp {
+    width: 70%;
+    right: -18%;
+}
+.post-title h3 a {
+    font-size: 18px;
+}
+.post-date h4 {
+    font-size: 16px;
+}
+.float-video-img2 {
+    width: 35%;
+}
+.page-title h2 {
+    font-size: 20px;
+}
+.float-Podcast-img2 {
+    width: 40%;
+}
+.float-article-img1 {
+    width: 45%;
+}
+.page-btn {
+    position: relative;
+    z-index: 99;
+}
+.float-article-img2 {
+    width: 40%;
+}
+.float-Podcast-img1 {
+    width: 40%;
+}
+.newsletr-box {
+    padding: 45px;
+}
+.newsletter-content .page-title {
+    margin-bottom: 20px;
+}
+.newsletter-sec {
+    padding: 50px 0 150px;
+}
+.newsletter-sec:after {
+    bottom: -1.7rem;
+}
+.logo-header {
+    width: 60%;
+}
+.arrow-image img {
+    width: 6px !important;
+    height: 40px !important;
+}
+.carousel-item img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+.carousel-caption h1 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 0px;
+}
+.carousel-caption p {
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+.newsletter-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.top-mar {
+    margin-top: 20px;
+}
+.copyright {
+    border-top: 1px solid #2b80b8;
+    padding: 20px 10px 0px;
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    color: #fff;
+}
+.testisocial {
+    text-align: left !important;
+    margin-bottom: 20px;
+}
+.newsletr-box {
+    padding: 20px;
+}	
+.float-about-img1 {
+    width: 20%;
+}	
+.float-about-img2 {
+    width: 30%;
+}	
+.page-title h3 {
+    font-size: 38px;
+}	
+ul.social-media li a {
+    font-size: 17px;
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
